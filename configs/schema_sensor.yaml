@@ -1,0 +1,35 @@
+columns:
+  - timestamp: float64
+  - acc_x_dashboard: float64
+  - acc_y_dashboard: float64
+  - acc_z_dashboard: float64
+  - acc_x_above_suspension: float64
+  - acc_y_above_suspension: float64
+  - acc_z_above_suspension: float64
+  - acc_x_below_suspension: float64
+  - acc_y_below_suspension: float64
+  - acc_z_below_suspension: float64
+  - gyro_x_dashboard: float64
+  - gyro_y_dashboard: float64
+  - gyro_z_dashboard: float64
+  - gyro_x_above_suspension: float64
+  - gyro_y_above_suspension: float64
+  - gyro_z_above_suspension: float64
+  - gyro_x_below_suspension: float64
+  - gyro_y_below_suspension: float64
+  - gyro_z_below_suspension: float64
+  - mag_x_dashboard: float64
+  - mag_y_dashboard: float64
+  - mag_z_dashboard: float64
+  - mag_x_above_suspension: float64
+  - mag_y_above_suspension: float64
+  - mag_z_above_suspension: float64
+  - temp_dashboard: float64
+  - temp_above_suspension: float64
+  - temp_below_suspension: float64
+  - timestamp_gps: float64
+  - latitude: float64
+  - longitude: float64
+  - speed: float64
+
+

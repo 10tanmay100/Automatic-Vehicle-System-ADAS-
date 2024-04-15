@@ -1,0 +1,26 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+imblearn
+pytest
+black
+tox
+dataclasses
+feast
+boto3
+botocore
+dvc
+mlflow
+pathlib
+python-box
+ensure
+tqdm
+feast
+mlflow
+joblib
+markupsafe==2.0.1
+prometheus-flask-instrumentator
+# flask>=2.2.2
+-e .
+

@@ -1,0 +1,16 @@
+columns:
+  paved_road: int64
+  unpaved_road: int64
+  dirt_road: int64
+  cobblestone_road: int64
+  asphalt_road: int64
+  no_speed_bump: int64
+  speed_bump_asphalt: int64
+  speed_bump_cobblestone: int64
+  good_road_left: int64
+  regular_road_left: int64
+  bad_road_left: int64
+  good_road_right: int64
+  regular_road_right: int64
+  bad_road_right: int64
+

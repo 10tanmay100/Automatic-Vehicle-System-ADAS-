@@ -1,0 +1,1 @@
+from adas.entity.config_entity import *
